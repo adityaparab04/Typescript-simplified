@@ -40,7 +40,8 @@
 - Interface vs Types
   - Types
     - Always better to write types separately using type and the name of the object with all the properties. Otherwise it becomes to confusing.
-    - Can be assinged to a variable
+    - Can be assinged to a variable.
+    - First Letter always capital with camel case.
   - Interface
     - Interface can only be used with object so we cannot use `=` sign as well while assining. As the interface itself is something.
-    - Both are interchangeable with objects but can only be used with objects and cannot be assigned with number or String.
+    - Both are interchangeable with objects but can only be used with objects and cannot be assigned with number or string.
