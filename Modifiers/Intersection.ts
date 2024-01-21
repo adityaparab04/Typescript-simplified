@@ -18,9 +18,14 @@ interface EmployeeWithDepartment extends Employee, Person4 {
   department: string;
 }
 
-const emp: EmployeeWithDepartment = {
+const emp1: EmployeeWithDepartment = {
   name: "Aditya",
   salary: 100000,
   age: 25,
   department: "Sodtware",
+};
+
+const emp2: Employee = {
+  name: "Aditya",
+  salary: 100000,
 };
