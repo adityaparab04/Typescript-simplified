@@ -15,3 +15,4 @@
 -   Generics
     -   Generics determine the arguments type in a type, interface, function.
     -   It determines whether it's a generic function or not.
+    -   We can overwrite the generics
