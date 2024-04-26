@@ -8,3 +8,5 @@
 -   Omit
     -   Omit helps you to create a completely new type by omitting the existing type
     -   Syntax: `Omit<nameOfType, property>`
+-   Required
+    -   Required property overrides optional property
